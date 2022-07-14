@@ -1,0 +1,190 @@
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+#title{
+  background-color: #ff4c68;
+  color:white;
+  position: relative;
+}
+.fluid-container{
+  padding: 3% 15% 7% 15%;
+}
+.navbar-brand{
+  font-size: 320%;
+  font-family: 'Ubuntu', sans-serif;
+}
+.lower{
+  padding-top: 20%;
+}
+.lower2{
+  padding-top: 8%;
+}
+.lower2 button{
+  margin-bottom: 3%;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.nav-link{
+  font-family:ubuntu;
+}
+.navbar{
+  padding-left: 1%;
+}
+.nav-item{
+  margin-right: 16%;
+}
+.resize img{
+  width: 20%;
+  transform: rotate(25deg);
+  margin-top: 128px;
+  position: absolute;
+  right:26%;
+
+}
+
+
+#features p{
+  font-family:ubuntu;
+  color: #8f8f8f;
+}
+#features i{
+  color:#ef8172;
+}
+#features{
+  padding:8% 15%;
+  text-align:center;
+  background-color: #fff;
+  position: relative;
+}
+
+#features h3{
+  font-size: 1.5rem;
+}
+.col-lg-4 p{
+  margin: 0 55px;
+}
+.fa-solid{
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+#features i:hover{
+  color:#ff4c68;
+}
+
+/* testimonials */
+
+#testimonials{
+  background-color:#ef8172;
+  color:#fff;
+  font-family: Montserrat;
+  text-align: center;
+}
+h2{
+  font-size: 3rem;
+}
+.test{
+  width: 10%;
+  margin:20px;
+  border-radius: 100%
+}
+#testimonials em{
+  font-family: ubuntu;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 2%;
+
+}
+.carousel-item{
+  padding: 8% 15%;
+}
+.card-body p{
+  font-family: 'ubuntu';
+}
+
+
+
+/* pricing */
+
+
+
+
+#pricing p{
+  font-family: 'ubuntu';
+}
+#pricing .btn{
+  width: 100%;
+}
+#pricing .card{
+  text-align: center;
+  margin:2% 5%;
+}
+#pricing button{
+  font-family: 'ubuntu';
+}
+#pricing{
+  padding:5% 7%;
+  position: relative;
+}
+.pricing-second{
+  color:grey;
+}
+
+
+section{
+  position: relative;
+}
+@media (max-width:1171px){
+  #title{
+    text-align: center;
+  }
+  .resize img{
+    position: static;
+    width: 50%;
+    transform: rotate(0);
+  }
+}
+
+/* pricing */
+
+#pricing{
+  text-align: center;
+}
+#cta{
+  text-align: center;
+  height: auto;
+  background-color: #ff4c68;
+  padding: 6% 16%;
+}
+#cta h3{
+  font-family: Montserrat;
+  color: white;
+  font-size: 3.5rem;
+  line-height: 4.5rem;
+  margin-bottom: 5%;
+}
+#cta button{
+  margin:1.5%;
+  font-family: ubuntu;
+}
+#footer{
+  text-align: center;
+  height: 35vh;
+  padding: 2% 16%;
+}
+#footer p{
+  font-family: ubuntu;
+  color:grey;
+}
+#footer i{
+  margin-right: 1%;
+  margin-bottom: 1%;
+}
