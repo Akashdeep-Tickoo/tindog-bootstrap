@@ -143,7 +143,7 @@ section{
   position: relative;
 }
 @media (max-width:1171px){
-  #title{
+  #title .row{
     text-align: center;
   }
   .resize img{
@@ -177,7 +177,7 @@ section{
 }
 #footer{
   text-align: center;
-  height: 35vh;
+  height: 20vh;
   padding: 2% 16%;
 }
 #footer p{
